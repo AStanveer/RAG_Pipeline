@@ -1,6 +1,6 @@
 # 📚 Enhanced RAG Document Q&A System
 
-A sophisticated multi-document RAG system I built for intelligent PDF analysis and question answering. This was my final year project demonstrating advanced document processing with AI.
+A multi-document RAG system I built for intelligent PDF analysis and question answering.
 
 ## ✨ What I Built
 
